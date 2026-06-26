@@ -1,4 +1,4 @@
-# Hi there, I'm [نام شما] 👋
+# Hi there, I'm Amin Ghaznavi 👋
 
 ### 🎓 About Me
 I am a passionate **Computer Engineering Student** dedicated to understanding how software interacts with hardware and how data travels across the globe. Currently diving deep into code and systems architecture!
@@ -28,8 +28,7 @@ I am a passionate **Computer Engineering Student** dedicated to understanding ho
 ---
 
 ### 📫 How to reach me
-- 📧 Email: [ایمیل شما]
-- 💼 LinkedIn: [لینک لینکدین شما]
+- 📧 Email: [amin.ghaznavi1986@gmail.com]
 
 ---
 <p align="center">
